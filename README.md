@@ -1,2 +1,2 @@
 # Big-Data
-In this project, I explored big data using PySpark for rapid processing. I worked with CSV and JSON files, with JSON being a new experience. The objective was to integrate insights from both data types and create visualizations. Finally, a machine learning model was developed for predictive analysis.
+In this project, I utilized PySpark to process and analyze big data from CSV and JSON files, gaining experience in integrating multiple data formats. I created visualizations to illustrate insights and developed a machine learning model for predictive analytics, showcasing the potential of data-driven decision-making.
